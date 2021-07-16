@@ -7,4 +7,4 @@
 - Vue-Router
 - JSONServer - Fake REST API using just a JSON file
 
-<img src="app.png" alt="screenshot" width="150px"/>
+<img src="app.png" alt="screenshot" width="200px"/>
